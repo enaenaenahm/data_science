@@ -1,6 +1,6 @@
 # Data Science Projects 📊
 
-Русская версия тут[(https://github.com/enaenaenahm/pr_data_science/blob/main/README_RUS.md)].
+Русская версия [тут](https://github.com/enaenaenahm/pr_data_science/blob/main/README_RUS.md).
 
 As part of my training, I completed a series of projects covering the key aspects of Data Science — from working with UNIX utilities to data visualization and analysis. Below is a brief overview of each project:
 
@@ -35,6 +35,7 @@ Combined SQL and Pandas: connected to a database using `sqlite3`, wrote SQL quer
 ### 🔹 `day_07` — Data Visualization
 
 Learned to create plots with `matplotlib`, `seaborn`, and `plotly`: histograms, boxplots, line charts, heatmaps, and interactive visualizations. Understood how to choose the right chart type for different data and tasks.
+
 
 
 
