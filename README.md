@@ -36,9 +36,3 @@ Combined SQL and Pandas: connected to a database using `sqlite3`, wrote SQL quer
 
 Learned to create plots with `matplotlib`, `seaborn`, and `plotly`: histograms, boxplots, line charts, heatmaps, and interactive visualizations. Understood how to choose the right chart type for different data and tasks.
 
-
-
-
-
-# data_science
-# data_science
